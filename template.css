@@ -1,0 +1,16 @@
+
+body {
+    background-color: lightblue;
+}
+
+h3 {
+  font-family: verdana;
+  font-size: 60px;
+  text-align: center;
+  font-color: red;
+}
+
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+}
